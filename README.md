@@ -10,9 +10,9 @@
 <br/>
 <img src="img/36.66.jpg" alt="36.66" width="300" height="300">
 <br/>
+
 或**更高金额**
-<br/>
-<img src="img/love.jpg" alt="非常感谢" width="300" height="380">
+
 
 并在备注留下联系方式。（定制化开发其他软件请联系：zcsupercn@foxmail.com）
 
