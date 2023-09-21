@@ -16,14 +16,24 @@
 
 并在备注留下联系方式。（定制化开发其他软件请联系：zcsupercn@foxmail.com）
 
+
 # 更新日志
+
+**2023 年 9 月 21 号**
+JD有变，更改了多个函数计算错误等问题。
+- get_seckill_url
+- request_seckill_checkout_page
+- make_reserve 等
+
+处理Tik值 sk值有误问题
+
+
 **2023 年 9 月 19 号**
 修复失效的eid和fp获取方法。
 说明：
 <br/>
 <img src="img/23-9-19更新说明，必看.jpg" />
 <br/>
-# 更新日志
 
 **2023 年 9 月 13 号**
   更新原作者留下报错问题
