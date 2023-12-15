@@ -56,7 +56,7 @@ JD有变，更改了多个函数计算错误等问题。
 - make_reserve 等
 
 处理Tik值 sk值有误问题
-
+   
 
 **2023 年 9 月 19 号**
 修复失效的eid和fp获取方法。
@@ -258,7 +258,7 @@ $ sudo docker-compose -f compose/docker-compose.yml exec jd-seckill qrcode
 ```bash
 $ sudo docker-compose -f compose/docker-compose.yml down -t 0
 ```
-
+https://github.com/chao325/QmaoTai/tree/master
 #### 滚动打印运行日志
 
 ```bash
